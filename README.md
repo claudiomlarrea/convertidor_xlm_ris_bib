@@ -36,4 +36,4 @@ Desde Word podés exportarlo/administrarlo en **Pestaña Referencias → Adminis
 
 ---
 
-Hecho con ❤️ para investigadores.
+Hecho para investigadores.
