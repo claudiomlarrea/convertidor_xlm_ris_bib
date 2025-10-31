@@ -52,5 +52,5 @@ if uploaded is not None:
             )
 
 st.markdown("---")
-st.markdown("Hecho con ❤️ para investigadores: convierte tus fuentes de Word al instante.")
+st.markdown("Hecho para investigadores: convierte tus fuentes de Word al instante.")
 
